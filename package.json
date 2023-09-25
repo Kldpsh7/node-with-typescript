@@ -4,7 +4,8 @@
   "description": "Utilizing typescript to develop a node app",
   "main": "app.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/app.js"
   },
   "author": "kuldeep sharma",
   "license": "ISC",
